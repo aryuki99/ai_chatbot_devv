@@ -5,11 +5,7 @@
   "installCommand": "pnpm install",
   "devCommand": "pnpm run dev",
   
-  "functions": {
-    "app/api/**/*.ts": {
-      "runtime": "nodejs18.x"
-    }
-  },
+ 
   "rewrites": [
     {
       "source": "/(.*)",
