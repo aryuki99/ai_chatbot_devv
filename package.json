@@ -15,9 +15,9 @@
     "langchain": "^0.2.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.0",
-    "typescript": "^5.2.0",
-    "vue-tsc": "^1.8.0",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "typescript": "^5.8.3",
+    "vue-tsc": "^3.0.4",
     "vite": "^5.0.0",
     "tailwindcss": "^3.4.0",
     "postcss": "^8.4.0",
